@@ -2,7 +2,7 @@
 
 ### ✏️ Introdução do Javascript (Javascript Introduction) 📚⏳🤔😉
 
-Neste repositório contém liçoes praticas relacionadas a manipulação do D.O.M em Javascript. (This repository contains practical lessons related to the manipulation of D.O.M in Javascript..)
+Neste repositório contém liçoes praticas relacionadas a manipulação do D.O.M em Javascript. (This repository contains practical lessons related to the manipulation of D.O.M in Javascript.)
 
 ### Links úteis (Useful links)
 + https://dio.me (Bootcamp in mode Courses)
